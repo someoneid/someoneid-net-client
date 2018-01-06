@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>>SomeoneId.Net.Client</id>
+    <id>SomeoneId.Net.Client</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>pigeonlabs</authors>
