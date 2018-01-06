@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>>SomeoneId.Net.Client</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>pigeonlabs</authors>
+    <owners>pigeonlabs</owners>
+    <licenseUrl>https://www.someone.id</licenseUrl>
+    <projectUrl>https://github.com/someoneid/someoneid-net-client</projectUrl>
+    <iconUrl>https://www.someone.id/assets-ts/images/logo/brand-someone-nuget.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET wrapper for someone.id API</description>
+    <releaseNotes>First release. someone.id service is still in BETA version</releaseNotes>
+    <copyright>Copyright someone.id 2018</copyright>
+    <tags>oauth openid authetication login access provider qrcode identity provider</tags>
+  </metadata>
+</package>
